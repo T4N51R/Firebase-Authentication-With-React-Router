@@ -2,7 +2,7 @@ import React from 'react';
 import useFirebase from '../../hooks/useFirebase';
 
 const LogIn = () => {
-    const { signInWithGoogle } = useFirebase()
+    const { signInWithGoogle, } = useFirebase()
     return (
         <div>
             <h1>This is LogIn</h1>
