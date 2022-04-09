@@ -1,0 +1,14 @@
+.header a {
+    text-decoration: none;
+    margin-right: 20px;
+    font-size: 25px;
+    color: white;
+    text-align: center;
+}
+
+
+
+.header {
+    background-color: rgb(85, 60, 60);
+    height: 5rem;
+}
